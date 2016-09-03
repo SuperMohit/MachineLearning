@@ -28,4 +28,10 @@ Deep Learning : http://openclassroom.stanford.edu/MainFolder/CoursePage.php?cour
 http://fastml.com/deep-learning-made-easy/
 Machine Learning : http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
 NLTK Tutorial :  http://textminingonline.com/category/nltk 
+Slack Bot : https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers
+Go Army : http://www.goarmy.com/  ( What is the minimum age for recruitment? I am not a ctizen yet. Can I enroll? What is the retirement age?)
+Conversational Bot : http://mitsuku.com/
+
+
+
 
