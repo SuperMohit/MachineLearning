@@ -22,3 +22,9 @@ WordNet : http://www.nltk.org/howto/wordnet.html
 Hindi : http://www.cfilt.iitb.ac.in/wordnet/webhwn/
 Conecpt5 : http://conceptnet5.media.mit.edu/
 Node and Python :  http://ianhinsdale.com/code/2013/12/08/communicating-between-nodejs-and-python/
+ZeroMQ : 
+Stanford Deep Learning : http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
+Deep Learning : http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning
+http://fastml.com/deep-learning-made-easy/
+Machine Learning : http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
+
