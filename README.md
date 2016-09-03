@@ -27,4 +27,5 @@ Stanford Deep Learning : http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
 Deep Learning : http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning
 http://fastml.com/deep-learning-made-easy/
 Machine Learning : http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
+NLTK Tutorial :  http://textminingonline.com/category/nltk 
 
