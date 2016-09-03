@@ -15,3 +15,4 @@ https://api.ai/
 http://www.ibm.com/developerworks/cloud/library/cl-watson-films-bluemix-app/
 http://lab.hakim.se/ladda/
 http://kenwheeler.github.io/slick/
+https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.lycsjkpuz
