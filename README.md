@@ -21,3 +21,4 @@ DataSet :  http://cogcomp.cs.illinois.edu/Data/QA/QC/
 WordNet : http://www.nltk.org/howto/wordnet.html
 Hindi : http://www.cfilt.iitb.ac.in/wordnet/webhwn/
 Conecpt5 : http://conceptnet5.media.mit.edu/
+Node and Python :  http://ianhinsdale.com/code/2013/12/08/communicating-between-nodejs-and-python/
