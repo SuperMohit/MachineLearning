@@ -1,5 +1,5 @@
 # MachineLearning
-http://meta-guide.com/bibliography/100-best-theses-in-ai-nlp-conversational-agents
+#http://meta-guide.com/bibliography/100-best-theses-in-ai-nlp-conversational-agents
 https://wit.ai/getting-started
 https://www.microsoft.com/cognitive-services/en-us/apis
 http://ai-programming.com/bot_tutorial.htm
@@ -15,4 +15,4 @@ https://api.ai/
 http://www.ibm.com/developerworks/cloud/library/cl-watson-films-bluemix-app/
 http://lab.hakim.se/ladda/
 http://kenwheeler.github.io/slick/
-https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.lycsjkpuz
+Important : #https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.lycsjkpuz
