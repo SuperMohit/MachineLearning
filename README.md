@@ -19,3 +19,4 @@ Important : #https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.l
 QType : http://cogcomp.cs.illinois.edu/Data/QA/QC/definition.html
 WordNet : http://www.nltk.org/howto/wordnet.html
 Hindi : http://www.cfilt.iitb.ac.in/wordnet/webhwn/
+Conecpt5 : http://conceptnet5.media.mit.edu/
