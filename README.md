@@ -17,6 +17,7 @@ http://lab.hakim.se/ladda/
 http://kenwheeler.github.io/slick/
 Important : #https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.lycsjkpuz
 QType : http://cogcomp.cs.illinois.edu/Data/QA/QC/definition.html
+DataSet :  http://cogcomp.cs.illinois.edu/Data/QA/QC/
 WordNet : http://www.nltk.org/howto/wordnet.html
 Hindi : http://www.cfilt.iitb.ac.in/wordnet/webhwn/
 Conecpt5 : http://conceptnet5.media.mit.edu/
