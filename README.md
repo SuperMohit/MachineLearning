@@ -30,7 +30,10 @@ Machine Learning : http://openclassroom.stanford.edu/MainFolder/CoursePage.php?c
 NLTK Tutorial :  http://textminingonline.com/category/nltk 
 Slack Bot : https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers
 Go Army : http://www.goarmy.com/  ( What is the minimum age for recruitment? I am not a ctizen yet. Can I enroll? What is the retirement age?)
-Conversational Bot : http://mitsuku.com/
+#Conversational Bot : 
+http://mitsuku.com/
+http://www.pandorabots.com/
+Chatter Bot Paper :  https://repository.unm.edu/bitstream/handle/1928/24299/ChakrabartiDissertation.pdf
 
 
 
