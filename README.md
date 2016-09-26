@@ -35,6 +35,18 @@ http://mitsuku.com/
 http://www.pandorabots.com/
 Chatter Bot Paper :  https://repository.unm.edu/bitstream/handle/1928/24299/ChakrabartiDissertation.pdf
 
-
-
+#Chat Bot with Python
+https://apps.worldwritable.com/tutorials/chatbot/
+Text BLob : http://textblob.readthedocs.io/en/dev/
+SpaCy : https://spacy.io/
+Chatter Bot : http://chatterbot.readthedocs.io/en/stable/
+NLP 1 : https://worldwritable.com/natural-language-processing-for-programmers-90c4e04dc6de#.dimj46ars
+NLP 2 : https://worldwritable.com/natural-language-processing-for-programmers-90c4e04dc6de#.xt1d8grqh
+PoS Tagger : https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+Sense and Lemma : https://www.quora.com/Dictionaries-In-WordNet-whats-the-difference-between-a-sense-and-a-lemma
+Spacy : https://spacy.io/blog/sense2vec-with-spacy
+Tay   : http://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist
+Lambda : https://aws.amazon.com/lambda/ 
+Filter : https://github.com/SuperMohit/wordfilter
+Bro Bot : https://github.com/SuperMohit/brobot
 
