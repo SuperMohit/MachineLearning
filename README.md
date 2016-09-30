@@ -49,4 +49,5 @@ Tay   : http://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist
 Lambda : https://aws.amazon.com/lambda/ 
 Filter : https://github.com/SuperMohit/wordfilter
 Bro Bot : https://github.com/SuperMohit/brobot
-
+#Spell Checker
+http://norvig.com/spell-correct.html
