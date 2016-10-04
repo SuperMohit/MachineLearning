@@ -51,3 +51,16 @@ Filter : https://github.com/SuperMohit/wordfilter
 Bro Bot : https://github.com/SuperMohit/brobot
 #Spell Checker
 http://norvig.com/spell-correct.html
+#Python NumPy Tutorial
+http://cs231n.github.io/python-numpy-tutorial/
+#Theano
+http://deeplearning.net/software/theano/optimizations.html#term-merge
+#Neural Network with Keras
+http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+#SciPy
+http://scipy.org/
+#Tensor Flow
+http://download.tensorflow.org/paper/whitepaper2015.pdf
+#NLP
+http://cs224d.stanford.edu/syllabus.html
+
