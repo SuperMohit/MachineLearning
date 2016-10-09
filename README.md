@@ -37,6 +37,7 @@ Chatter Bot Paper :  https://repository.unm.edu/bitstream/handle/1928/24299/Chak
 
 #Chat Bot with Python
 https://apps.worldwritable.com/tutorials/chatbot/
+https://cli.traan.vn/how-to-create-a-facebook-bot-in-10-minutes-the-complete-tutorial-from-zero-to-hero-ku-352dca274046#.v6l9jlx30
 Text BLob : http://textblob.readthedocs.io/en/dev/
 SpaCy : https://spacy.io/
 Chatter Bot : http://chatterbot.readthedocs.io/en/stable/
@@ -63,4 +64,6 @@ http://scipy.org/
 http://download.tensorflow.org/paper/whitepaper2015.pdf
 #NLP
 http://cs224d.stanford.edu/syllabus.html
+#APIs
+https://webhose.io/features For News 
 
