@@ -66,4 +66,5 @@ http://download.tensorflow.org/paper/whitepaper2015.pdf
 http://cs224d.stanford.edu/syllabus.html
 #APIs
 https://webhose.io/features For News 
-
+#Google Translator API
+https://cloud.google.com/translate/docs/
