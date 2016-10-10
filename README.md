@@ -52,8 +52,9 @@ Filter : https://github.com/SuperMohit/wordfilter
 Bro Bot : https://github.com/SuperMohit/brobot
 #Spell Checker
 http://norvig.com/spell-correct.html
-#Python NumPy Tutorial
+#Python NumPy Tutorial // Maybe use Pandas over NumPy
 http://cs231n.github.io/python-numpy-tutorial/
+http://pandas.pydata.org/
 #Theano
 http://deeplearning.net/software/theano/optimizations.html#term-merge
 #Neural Network with Keras
